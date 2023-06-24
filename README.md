@@ -1,2 +1,5 @@
 # hello-world
-ideas, resources, and discussion points
+Ideas, resources, and discussion points.
+**My name is Sierra Brown.** 
+*This is my attempt at the hello world assignment*
+
